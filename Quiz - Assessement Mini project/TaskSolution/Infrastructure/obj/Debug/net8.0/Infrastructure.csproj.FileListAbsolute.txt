@@ -1,0 +1,17 @@
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Core.dll
+E:\DEPI\task\TaskSolution\Infrastructure\bin\Debug\net8.0\Core.pdb
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+E:\DEPI\task\TaskSolution\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

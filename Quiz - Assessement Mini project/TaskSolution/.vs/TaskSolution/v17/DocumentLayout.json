@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\task\\TaskSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|e:\\depi\\task\\tasksolution\\task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|solutionrelative:task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|e:\\depi\\task\\tasksolution\\infrastructure\\data\\migrations\\20251107140540_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\migrations\\20251107140540_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|e:\\depi\\task\\tasksolution\\task\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|solutionrelative:task\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|e:\\depi\\task\\tasksolution\\infrastructure\\data\\classconfige\\taskitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\classconfige\\taskitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|e:\\depi\\task\\tasksolution\\infrastructure\\data\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|e:\\depi\\task\\tasksolution\\core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|solutionrelative:core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|e:\\depi\\task\\tasksolution\\core\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|solutionrelative:core\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|e:\\depi\\task\\tasksolution\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6C6A30-98A8-4711-B19B-D38526E566CF}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|e:\\depi\\task\\tasksolution\\core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CF071-D3DF-465C-A877-B9039EC12038}|Core\\Core.csproj|solutionrelative:core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|e:\\depi\\task\\tasksolution\\infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36EB90-1C47-4680-BFD2-67A14B4BB903}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D828E0-948F-434F-BA83-AE753913056A}|Service\\Service.csproj|e:\\depi\\task\\tasksolution\\service\\taskmanagement\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D828E0-948F-434F-BA83-AE753913056A}|Service\\Service.csproj|solutionrelative:service\\taskmanagement\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251107140540_InitialCreate.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\Migrations\\20251107140540_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Migrations\\20251107140540_InitialCreate.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\Migrations\\20251107140540_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Migrations\\20251107140540_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:05:41.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItemConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\ClassConfige\\TaskItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ClassConfige\\TaskItemConfiguration.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\ClassConfige\\TaskItemConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ClassConfige\\TaskItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:00:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Task\\appsettings.json",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Task\\appsettings.json",
+              "RelativeToolTip": "Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T13:52:39.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:51:19.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Task\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Task\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Task\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:49:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Service\\TaskManagement\\TaskService.cs",
+              "RelativeDocumentMoniker": "Service\\TaskManagement\\TaskService.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Service\\TaskManagement\\TaskService.cs",
+              "RelativeToolTip": "Service\\TaskManagement\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:48:09.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:46:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Infrastructure\\Data\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:44:41.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Core\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITaskService.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Core\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:44:00.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:43:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\DEPI\\task\\TaskSolution\\Core\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TaskItem.cs",
+              "ToolTip": "E:\\DEPI\\task\\TaskSolution\\Core\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Core\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:42:34.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

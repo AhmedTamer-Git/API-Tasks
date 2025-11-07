@@ -1,0 +1,17 @@
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Service.deps.json
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Service.dll
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Service.pdb
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Core.dll
+E:\DEPI\task\TaskSolution\Service\bin\Debug\net8.0\Core.pdb
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.dll
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\refint\Service.dll
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.pdb
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+E:\DEPI\task\TaskSolution\Service\obj\Debug\net8.0\ref\Service.dll

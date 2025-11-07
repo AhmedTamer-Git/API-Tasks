@@ -1,0 +1,14 @@
+E:\DEPI\task\TaskSolution\Core\bin\Debug\net8.0\Core.deps.json
+E:\DEPI\task\TaskSolution\Core\bin\Debug\net8.0\Core.dll
+E:\DEPI\task\TaskSolution\Core\bin\Debug\net8.0\Core.pdb
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.dll
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\refint\Core.dll
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.pdb
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\ref\Core.dll
+E:\DEPI\task\TaskSolution\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+E:\DEPI\task\TaskSolution\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
