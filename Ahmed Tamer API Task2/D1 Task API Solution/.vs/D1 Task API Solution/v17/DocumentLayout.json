@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\dtos\\departmentinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\dtos\\departmentinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|e:\\depi\\api\\d2\\d1 task api solution\\d1 task api\\data\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACDB4A2-3555-4223-BAA8-5145812219C2}|D1 Task API\\D1 Task API.csproj|solutionrelative:d1 task api\\data\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\DTOs\\CourseDTO.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "D1 Task API\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:26:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDetailsDTO.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\DepartmentDetailsDTO.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\DTOs\\DepartmentDetailsDTO.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\DepartmentDetailsDTO.cs",
+              "RelativeToolTip": "D1 Task API\\DTOs\\DepartmentDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:24:02.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentInfoDTO.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\DepartmentInfoDTO.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\DTOs\\DepartmentInfoDTO.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\DTOs\\DepartmentInfoDTO.cs",
+              "RelativeToolTip": "D1 Task API\\DTOs\\DepartmentInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:49:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "D1 Task API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:45:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Entities\\Department.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Entities\\Department.cs",
+              "RelativeToolTip": "D1 Task API\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:41:10.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Controllers\\CoursesController.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "D1 Task API\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:55:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Data\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Data\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Data\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "D1 Task API\\Data\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:45:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Entities\\Course.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Entities\\Course.cs",
+              "RelativeToolTip": "D1 Task API\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:42:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Program.cs",
+              "RelativeDocumentMoniker": "D1 Task API\\Program.cs",
+              "ToolTip": "E:\\DEPI\\API\\D2\\D1 Task API Solution\\D1 Task API\\Program.cs",
+              "RelativeToolTip": "D1 Task API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:51:15.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
